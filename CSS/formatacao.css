@@ -1,0 +1,106 @@
+img{
+color:#131313;
+}
+
+body{
+color: C95D63;
+font-color: E8E8E8;
+font-family: Birch Std Regular;
+word-spacing:3px;
+}
+
+#tudo{
+position: relative;
+width: 80%;
+height:90%;
+background-color: #543347;
+font-family: Birch Std Regular;
+margin: 0 auto;
+text-align:center;
+text-decoration: none; 
+font-size: x-large;
+}
+
+#texto{
+color: 020202;
+position: relative;
+width: 80%;
+height:90%;
+font-family: Birch Std Regular;
+background-color: transparent ;
+float:right;
+text-decoration: none; 
+font-size: 200%;
+
+}
+
+#parte1{
+color: 020202;
+position: relative;
+width: 33%;
+height:10%;
+background-color: 7C90DB ;
+float:left;
+text-decoration: none; 
+font-family: Birch Std Regular;
+font-size: x-large;
+}
+
+#parte2{
+color: 020202;
+position: relative;
+width: 33%;
+height:10%;
+background-color: 7C90DB ;
+float:left;
+text-decoration: none; 
+font-family: Birch Std Regular;
+font-size: x-large;
+}
+
+#parte3{
+color: 020202;
+position: relative;
+width: 33%;
+height:10%;
+background-color: 7C90DB ;
+float:left;
+text-decoration: none; 
+font-family: Birch Std Regular;
+font-size: x-large;
+}
+
+#rodape{
+position: absolute;	
+color: 020202;
+float: ;
+width: 99%;
+height:8%;
+background-color: 7C90DB ;
+font-family: Birch Std Regular;
+}
+
+
+
+.vertical-menu {
+    width: 20%; 
+}
+
+.vertical-menu a {
+background-color: #EEE0CB; 
+color: 020202; 
+display: block; 
+padding: 12px; 
+text-decoration: none; 
+font-family: Birch Std Regular;
+font-size: x-large;
+	}
+
+.vertical-menu a:hover {
+background-color: #F7FFF7; 
+}
+
+.vertical-menu a.active {
+background-color: #7C90DB;
+color: #020202;
+}
