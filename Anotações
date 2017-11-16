@@ -1,0 +1,24 @@
+#git é seu pincel e tintas enquanto o GitHub é um museu.
+O git é só uma ferramenta para versionar projetos, enquanto o github é o site no qual você colocará esses projetos versionados.  
+
+------------------------------------------------------------------------------------------------------------------------------
+O git é um tipo de código
+
+git init --> para iniciar
+
+git add nome-do-arquivo.extensão --> para adicionar arquivos
+
+git add . --> para adicionar um diretório inteiro
+
+git reset HEAD nome-do-arquivo --> para voltar um estágio
+
+------------------------------------------------------------------------------------------------------------------------------
+O github é para arquivar seus projetos de git
+
+além disso você pode:
+
+editar em conjunto com seu grupo
+
+Criar um projeto colaborativo com qualquer pessoa no mundo
+
+Um software open source (código livre)
